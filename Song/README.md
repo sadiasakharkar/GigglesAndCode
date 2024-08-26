@@ -1,7 +1,3 @@
-Here’s a cute README for your script:
-
----
-
 # `GigglesAndCode`: Line-by-Line Song Printer 🎵💻
 
 Welcome to `GigglesAndCode`! Dive into a charming Python script that prints song lyrics one letter at a time, making each line feel like a personal performance. Perfect for adding a touch of magic to your command line experience!
@@ -46,7 +42,3 @@ print_line_by_line(song_lines, delay=0.1)
 ```
 
 Enjoy the little performance right in your terminal!
-
----
-
-Feel free to tweak it to match your style!
