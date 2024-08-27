@@ -1,7 +1,3 @@
-Sure! Here’s an enhanced version of the `README.md` with more engaging details:
-
----
-
 # Falling Objects Game
 
 Welcome to the Falling Objects Game, a fun and challenging game built using `pygame`! Test your reflexes and agility as you dodge falling obstacles and strive for the highest score. This game is a great way to dive into game development with `pygame`.
@@ -62,14 +58,6 @@ In this game, you control a black square player at the bottom of the screen. Red
 
 ## Screenshot
 
-![Game Screenshot](link-to-your-screenshot.png)
+![Game Screenshot] https://github.com/sadiasakharkar/GigglesAndCode/tree/ffc4f83078406542ddf8d693f52407a86a23d9bc/Falling%20Objects%20Game/ScreenShot
 
-*Replace `link-to-your-screenshot.png` with an actual link or path to a screenshot of your game.*
 
-## License
-
-This game is open-source and free to use. Feel free to modify, improve, and share it with others. Enjoy coding and gaming!
-
----
-
-Feel free to replace the placeholder for the screenshot with an actual image if you have one. Let me know if there's anything else you'd like to add or change!
