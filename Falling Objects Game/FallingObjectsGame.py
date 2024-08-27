@@ -72,7 +72,3 @@ while not game_over:
     clock.tick(FPS)
 
 pygame.quit()
-
-
-# run using command
-# python3 "/Users/sadiasakharkar/Programming/Fun with Coding/FallingObjectsGame.py"
