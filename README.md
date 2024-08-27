@@ -27,5 +27,5 @@ Got a fun project or quirky code snippet you want to share? **Giggles and Code**
 Have feedback, suggestions, or just want to share a giggle? Open an issue or reach out. I’m always excited to hear your thoughts and ideas, whether it’s a new project suggestion or a humorous coding anecdote.
 
 
-Jump in, explore, and let’s make coding a delightful adventure! 😄💻
+Jump in, explore, and let’s make coding a delightful adventure! 💻
 
