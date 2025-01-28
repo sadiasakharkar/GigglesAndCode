@@ -1,6 +1,3 @@
-Here’s a sample README for your Solar System Simulator project:
-
----
 
 # Solar System Simulator
 
