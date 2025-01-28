@@ -1,4 +1,4 @@
-# Giggles and Code 🤪💻
+# Giggles and Code 
 
 Welcome to **Giggles and Code**—where coding meets creativity and hilarity! This repository is my personal playground for all things quirky, fun, and imaginative in the world of programming. If you’re here, you’re about to embark on a journey through some of my most entertaining and inventive projects.
 
